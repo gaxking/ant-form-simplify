@@ -1,0 +1,28 @@
+.wuye-search-form {background-color:#fff;padding:15px 10px 5px 10px;margin-bottom:20px;border-radius:2px;display:inline-block;width:100%;}
+.wuye-search-form .ant-form-item {display: inline-block; margin:5px 20px 15px 0;}
+.wuye-search-form .ant-form-item >label{ width: 120px; margin-left: 10px;}
+.wuye-search-form .ant-form-item >div{ display: inline-block; margin-left: 2px;vertical-align:inherit;}
+.c-search-form .ant-form-item{ margin-bottom: 0; line-height: 40px;}
+.wuye-search-form .c-form-btn-save{
+	margin:0 0 0 0;
+}
+
+.wuye-search-form .c-form-btn-clear{
+	margin:0 0 0 10px;
+}
+
+
+.c-search-form .ant-form-explain{ margin: 0; float: right; padding-left: 5px; line-height: 32px;}
+.c-search-form .has-error.has-feedback:after{ right: 25px;}
+
+.c-form{padding-bottom:0;border:1px solid transparent}
+
+.c-form .c-form-btn-clear{
+	margin:0 0 0 10px;
+}
+
+.c-form .c-form-btn-back{
+	margin:0 10px 0 0;
+}
+
+
